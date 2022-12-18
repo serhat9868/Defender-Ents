@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b6659fc7dd91ee468b32b3c4677e165, type: 3}
+  m_Name: Bubble Ability
+  m_EditorClassIdentifier: 
+  targetingStrategy: {fileID: 11400000, guid: 8c130576e9b6bc04a9eea6a548bfae6c, type: 2}
+  filteringStrategies: []
+  effectStrategies: []
+  characterClass: 0
+  cooldownTime: 6
+  isContinuousAbility: 0
+  abilityTime: 10

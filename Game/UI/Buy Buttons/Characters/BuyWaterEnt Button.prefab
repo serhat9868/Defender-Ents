@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6298856823894102453
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8650613357797651899, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: price
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651899, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: entImage
+      value: 
+      objectReference: {fileID: 5685871961417069189, guid: 8c14ed142ccc4be4f859762b0b84561f, type: 3}
+    - target: {fileID: 8650613357797651899, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: imageToShow
+      value: 
+      objectReference: {fileID: 3415751536134742414}
+    - target: {fileID: 8650613357797651899, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: characterToBuy
+      value: 
+      objectReference: {fileID: 7168482661769670784, guid: 48f0f701bea1d8c45bb6b23b37187e56, type: 3}
+    - target: {fileID: 8650613357797651899, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: creatingEntButton
+      value: 
+      objectReference: {fileID: 1176353957119060558, guid: b568021c4a97fc148a048905c67cc2c4, type: 3}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 306.3334
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 220.6359
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -300
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651900, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8650613357797651901, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+      propertyPath: m_Name
+      value: BuyWaterEnt Button
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+--- !u!114 &3415751536134742414 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8650613358171435067, guid: 240589956fd41de41a39b2b8e556acc5, type: 3}
+  m_PrefabInstance: {fileID: 6298856823894102453}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

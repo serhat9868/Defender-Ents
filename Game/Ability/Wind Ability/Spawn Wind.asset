@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6b2ef908da73f449c0804b76d532ad, type: 3}
+  m_Name: Spawn Wind
+  m_EditorClassIdentifier: 
+  maxX: 25
+  minX: -35
+  maxY: 10
+  minY: -12
+  windPrefab: {fileID: 3851381826711885486, guid: 5f86b4fd44be8d746bbd4e982a0a799b, type: 3}
+  lifetime: 10
+  spawningRate: 0.05
+  windAmount: 100
